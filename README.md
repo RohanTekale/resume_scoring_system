@@ -31,7 +31,7 @@ A machine learning application designed to analyze candidates' resumes against j
 - FastAPI
 - MongoDB
 - Streamlit
-- Transformers library (for LLaMA)
+- Transformers library 
 - A cloud service (optional) for deploying LLaMA if not running locally
 
 ## Installation
